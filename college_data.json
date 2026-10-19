@@ -1,0 +1,22 @@
+[
+  {
+    "keywords": ["hello", "hi", "hey"],
+    "answer": "Hello! Welcome to SRC SmartBot. How can I help you?"
+  },
+  {
+    "keywords": ["scholarship", "scholarships", "fees"],
+    "answer": "For scholarship details, please contact the SRC college office."
+  },
+  {
+    "keywords": ["faculty", "teacher", "professor", "room number"],
+    "answer": "Please contact your department office for faculty names and room numbers."
+  },
+  {
+    "keywords": ["sports", "games", "sports faculty"],
+    "answer": "Please contact the college office for sports information."
+  },
+  {
+    "keywords": ["question paper", "previous papers", "old question papers"],
+    "answer": "Please check with your department for previous question papers."
+  }
+]
